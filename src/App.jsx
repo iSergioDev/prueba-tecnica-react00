@@ -1,5 +1,5 @@
 import './App.css'
-import { useCatImage } from './hooks/useCAtImage'
+import { useCatImage } from './hooks/useCatImage'
 import { useCatFact } from './hooks/useCatFact'
 
 const CAT_PREFIX_IMAGE_URL = 'https://cataas.com'
